@@ -4,14 +4,14 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-image:url(https://th.bing.com/th/id/R.42aed7cad4467721b91a607de8ba201c?rik=9ZbD2nIEq4qewQ&pid=ImgRaw&r=0)
 }
 
 .content {
     width: 100vw;
     height: 100vh;
     padding: 1rem;
-    background-color: #fff;
+    background-image:url(https://th.bing.com/th/id/R.42aed7cad4467721b91a607de8ba201c?rik=9ZbD2nIEq4qewQ&pid=ImgRaw&r=0)
 }
 
 @media screen and (min-width: 992px) {
