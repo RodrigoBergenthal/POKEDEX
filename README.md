@@ -6,5 +6,5 @@
 
 ## Publicado em https://pokedex-eight-lovat.vercel.app/
 
-![IMG](pokedex1.png)
+
 
